@@ -1,0 +1,32 @@
+** Challenge: Amigo Secreto
+
+Este es un proyecto simple hecho en HTML, CSS y JavaScript como parte del Challenge de Alura Latam.
+
+Permite:
+- Agregar nombres de amigos/as
+- Mostrar la lista
+- Sortear uno al azar como "amigo secreto"
+
+Ver el proyecto funcionando: """"https://federicocasas.github.io/amigo-secreto/""""""
+
+---
+
+** ¿Cómo usarlo?
+
+1. Escribir un nombre en el campo de texto
+2. Hacer clic en "Añadir"
+3. Cuando tengas varios nombres, presionar "Sortear amigo"
+
+---
+
+** Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+** Desarrollado por
+
+Federico Casas – como parte del Challenge ONE de Oracle + Alura Latam
